@@ -1,0 +1,11 @@
+{
+  "name": "tasklist_server",
+  "version": "1.0.0",
+  "description": "Server of task list web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anhtuan219",
+  "license": "ISC"
+}
